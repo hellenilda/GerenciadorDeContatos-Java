@@ -1,7 +1,7 @@
 package principal;
 
 import modelo.*;
-//
+
 public class ProgramaPrincipal {
 	public static void main(String[] args) {
 		Contato contatos = new Contato();
