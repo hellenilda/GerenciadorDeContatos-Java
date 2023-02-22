@@ -7,7 +7,7 @@ public class ProgramaPrincipal {
 		Contato contatos = new Contato();
 		System.out.println(contatos.getContatos());
 
-		// PESSOA 1.
+		// PESSOA 1
 		Pessoa p1 = new Pessoa(1, "Gabriel", "de Freitas", 996228117);
 
 		contatos.adicionarContato(p1);
